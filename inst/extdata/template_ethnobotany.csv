@@ -1,0 +1,4 @@
+informant_id,gender,age,village,ethnic_group,occupation,experience_years,local_name,scientific_name,family,habitus,use_category,plant_part,preparation,administration,ailment,latitude,longitude
+INF001,Female,52,Village A,Javanese,Farmer,30,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80120,111.93870
+INF001,Female,52,Village A,Javanese,Farmer,30,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80120,111.93870
+INF002,Male,41,Village B,Madurese,Trader,18,Kelapa,Cocos nucifera,Arecaceae,tree,Construction,stem,sawn,,,-7.85640,112.05210

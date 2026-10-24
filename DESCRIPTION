@@ -1,0 +1,26 @@
+Package: ethnoshiny
+Type: Package
+Title: Quantitative Ethnobotany in a Shiny App
+Version: 0.1.3
+Authors@R: person("Whisnu Febry", "Afrianto", email = "whisnu.afrianto@gmail.com", role = c("aut", "cre"))
+Description: An interactive Shiny application for quantitative ethnobotany.
+    Computes use value, relative frequency of citation, cultural importance,
+    fidelity level and informant consensus factor, compares groups, runs
+    correlation, NMDS and PERMANOVA analyses, draws networks, maps and
+    several unconventional charts in the viridis palette, writes scientific
+    names in italics, and exports Excel and HTML/Word reports. Start it with
+    one command, ethnoshiny().
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: shiny, bslib (>= 0.6.0), dplyr, tidyr, ggplot2, DT, plotly,
+        readxl, openxlsx, vegan, igraph, rmarkdown, rlang, viridisLite,
+        tools, stats, utils, graphics, grDevices
+Suggests: visNetwork, leaflet, ggVennDiagram, rgbif, testthat (>=
+        3.0.0), knitr
+Config/testthat/edition: 3
+RoxygenNote: 7.3.1
+VignetteBuilder: knitr
+NeedsCompilation: no
+YEAR: 2026
+COPYRIGHT HOLDER: Whisnu Febry Afrianto

@@ -1,0 +1,877 @@
+informant_id,gender,age,village,ethnic_group,occupation,experience_years,local_name,scientific_name,family,habitus,use_category,plant_part,preparation,administration,ailment,latitude,longitude
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Sirsak,Annona muricata,Annonaceae,tree,Medicinal,leaf,decoction,drunk,pain and aches,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Sirsak,Annona muricata,Annonaceae,tree,Food,fruit,fresh,eaten,,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Lidah buaya,Aloe vera,Asphodelaceae,herb,Cosmetic,leaf,gel,applied,,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Beluntas,Pluchea indica,Asteraceae,shrub,Medicinal,leaf,decoction,drunk,digestive disorders,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Kenanga,Cananga odorata,Annonaceae,tree,Cosmetic,flower,steeped,applied,,-7.85326,112.0488
+INF001,Female,46,Tirta Makmur,Javanese,Farmer,4,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.85326,112.0488
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ornamental,flower,planted,,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Randu,Ceiba pentandra,Malvaceae,tree,Craft,fruit,dried,,,-7.79788,111.93837
+INF002,Male,40,Sumber Jaya,Madurese,Farmer,12,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.79788,111.93837
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Sirsak,Annona muricata,Annonaceae,tree,Medicinal,leaf,decoction,drunk,pain and aches,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Kelor,Moringa oleifera,Moringaceae,tree,Food,leaf,cooked,eaten,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Randu,Ceiba pentandra,Malvaceae,tree,Craft,fruit,dried,,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Randu,Ceiba pentandra,Malvaceae,tree,Construction,stem,sawn,,,-7.80359,111.93719
+INF003,Female,27,Sumber Jaya,Madurese,Farmer,12,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.80359,111.93719
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.73704,111.86545
+INF004,Male,22,Alas Lestari,Javanese,Housewife,7,Gamal,Gliricidia sepium,Fabaceae,tree,Other,stem,planted,,,-7.73704,111.86545
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Sirsak,Annona muricata,Annonaceae,tree,Medicinal,leaf,decoction,drunk,pain and aches,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Sirsak,Annona muricata,Annonaceae,tree,Food,fruit,fresh,eaten,,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.80428,111.93556
+INF005,Female,54,Sumber Jaya,Javanese,Trader,19,Gamal,Gliricidia sepium,Fabaceae,tree,Other,stem,planted,,,-7.80428,111.93556
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Kunyit,Curcuma longa,Zingiberaceae,herb,Cosmetic,rhizome,ground,applied,,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Serai,Cymbopogon citratus,Poaceae,herb,Medicinal,stem,decoction,drunk,pain and aches,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.79829,111.94244
+INF006,Female,52,Sumber Jaya,Javanese,Farmer,32,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.79829,111.94244
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Sirsak,Annona muricata,Annonaceae,tree,Medicinal,leaf,decoction,drunk,pain and aches,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.85319,112.05447
+INF007,Female,51,Tirta Makmur,Madurese,Housewife,35,Lidah buaya,Aloe vera,Asphodelaceae,herb,Cosmetic,leaf,gel,applied,,-7.85319,112.05447
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ritual,flower,fresh,,,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Kenanga,Cananga odorata,Annonaceae,tree,Cosmetic,flower,steeped,applied,,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.74283,111.86356
+INF008,Male,57,Alas Lestari,Javanese,Farmer,26,Gamal,Gliricidia sepium,Fabaceae,tree,Other,stem,planted,,,-7.74283,111.86356
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.79978,111.94237
+INF009,Male,59,Sumber Jaya,Javanese,Farmer,23,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.79978,111.94237
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ornamental,flower,planted,,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ritual,flower,fresh,,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Food,bark,ground,,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Medicinal,bark,decoction,drunk,metabolic disorders,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.80127,111.94104
+INF010,Female,41,Sumber Jaya,Javanese,Trader,5,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.80127,111.94104
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Kunyit,Curcuma longa,Zingiberaceae,herb,Cosmetic,rhizome,ground,applied,,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Beluntas,Pluchea indica,Asteraceae,shrub,Medicinal,leaf,decoction,drunk,digestive disorders,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.85352,112.05602
+INF011,Female,34,Tirta Makmur,Madurese,Housewife,19,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.85352,112.05602
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.85307,112.04955
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Sirsak,Annona muricata,Annonaceae,tree,Medicinal,leaf,decoction,drunk,pain and aches,-7.85307,112.04955
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Sirsak,Annona muricata,Annonaceae,tree,Food,fruit,fresh,eaten,,-7.85307,112.04955
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.85307,112.04955
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.85307,112.04955
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Kelor,Moringa oleifera,Moringaceae,tree,Ritual,leaf,fresh,,,-7.85307,112.04955
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.85307,112.04955
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Kenanga,Cananga odorata,Annonaceae,tree,Cosmetic,flower,steeped,applied,,-7.85307,112.04955
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.85307,112.04955
+INF012,Female,29,Tirta Makmur,Javanese,Trader,14,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.85307,112.04955
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Kunyit,Curcuma longa,Zingiberaceae,herb,Cosmetic,rhizome,ground,applied,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Kelapa,Cocos nucifera,Arecaceae,tree,Craft,leaf,woven,,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Kelor,Moringa oleifera,Moringaceae,tree,Medicinal,leaf,cooked,eaten,lactation,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Kelor,Moringa oleifera,Moringaceae,tree,Ritual,leaf,fresh,,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Food,bark,ground,,,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Medicinal,bark,decoction,drunk,metabolic disorders,-7.79829,111.93691
+INF013,Female,22,Sumber Jaya,Javanese,Traditional healer,7,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.79829,111.93691
+INF014,Male,49,Sumber Jaya,Javanese,Housewife,34,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80406,111.93839
+INF014,Male,49,Sumber Jaya,Javanese,Housewife,34,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.80406,111.93839
+INF014,Male,49,Sumber Jaya,Javanese,Housewife,34,Kelapa,Cocos nucifera,Arecaceae,tree,Craft,leaf,woven,,,-7.80406,111.93839
+INF014,Male,49,Sumber Jaya,Javanese,Housewife,34,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.80406,111.93839
+INF014,Male,49,Sumber Jaya,Javanese,Housewife,34,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80406,111.93839
+INF014,Male,49,Sumber Jaya,Javanese,Housewife,34,Serai,Cymbopogon citratus,Poaceae,herb,Medicinal,stem,decoction,drunk,pain and aches,-7.80406,111.93839
+INF015,Female,29,Alas Lestari,Javanese,Housewife,12,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.74428,111.86336
+INF015,Female,29,Alas Lestari,Javanese,Housewife,12,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.74428,111.86336
+INF015,Female,29,Alas Lestari,Javanese,Housewife,12,Lidah buaya,Aloe vera,Asphodelaceae,herb,Cosmetic,leaf,gel,applied,,-7.74428,111.86336
+INF015,Female,29,Alas Lestari,Javanese,Housewife,12,Kelor,Moringa oleifera,Moringaceae,tree,Medicinal,leaf,cooked,eaten,lactation,-7.74428,111.86336
+INF015,Female,29,Alas Lestari,Javanese,Housewife,12,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.74428,111.86336
+INF015,Female,29,Alas Lestari,Javanese,Housewife,12,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.74428,111.86336
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Kenanga,Cananga odorata,Annonaceae,tree,Cosmetic,flower,steeped,applied,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.74106,111.86178
+INF016,Female,58,Alas Lestari,Javanese,Farmer,18,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.74106,111.86178
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80096,111.93833
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.80096,111.93833
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.80096,111.93833
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.80096,111.93833
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.80096,111.93833
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Kelapa,Cocos nucifera,Arecaceae,tree,Craft,leaf,woven,,,-7.80096,111.93833
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.80096,111.93833
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.80096,111.93833
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.80096,111.93833
+INF017,Male,28,Sumber Jaya,Javanese,Housewife,13,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.80096,111.93833
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.85478,112.05057
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.85478,112.05057
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.85478,112.05057
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.85478,112.05057
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.85478,112.05057
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.85478,112.05057
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Kumis kucing,Orthosiphon aristatus,Lamiaceae,herb,Medicinal,leaf,infusion,drunk,kidney and urinary,-7.85478,112.05057
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.85478,112.05057
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.85478,112.05057
+INF018,Male,47,Tirta Makmur,Javanese,Teacher,29,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.85478,112.05057
+INF019,Male,48,Tirta Makmur,Javanese,Housewife,2,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.85681,112.05549
+INF019,Male,48,Tirta Makmur,Javanese,Housewife,2,Sirsak,Annona muricata,Annonaceae,tree,Medicinal,leaf,decoction,drunk,pain and aches,-7.85681,112.05549
+INF019,Male,48,Tirta Makmur,Javanese,Housewife,2,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.85681,112.05549
+INF019,Male,48,Tirta Makmur,Javanese,Housewife,2,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.85681,112.05549
+INF019,Male,48,Tirta Makmur,Javanese,Housewife,2,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.85681,112.05549
+INF019,Male,48,Tirta Makmur,Javanese,Housewife,2,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ornamental,flower,planted,,,-7.85681,112.05549
+INF019,Male,48,Tirta Makmur,Javanese,Housewife,2,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.85681,112.05549
+INF019,Male,48,Tirta Makmur,Javanese,Housewife,2,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Food,bark,ground,,,-7.85681,112.05549
+INF019,Male,48,Tirta Makmur,Javanese,Housewife,2,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.85681,112.05549
+INF020,Female,43,Alas Lestari,Javanese,Farmer,13,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.73921,111.86625
+INF020,Female,43,Alas Lestari,Javanese,Farmer,13,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.73921,111.86625
+INF020,Female,43,Alas Lestari,Javanese,Farmer,13,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.73921,111.86625
+INF020,Female,43,Alas Lestari,Javanese,Farmer,13,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.73921,111.86625
+INF020,Female,43,Alas Lestari,Javanese,Farmer,13,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.73921,111.86625
+INF020,Female,43,Alas Lestari,Javanese,Farmer,13,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.73921,111.86625
+INF020,Female,43,Alas Lestari,Javanese,Farmer,13,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.73921,111.86625
+INF020,Female,43,Alas Lestari,Javanese,Farmer,13,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.73921,111.86625
+INF020,Female,43,Alas Lestari,Javanese,Farmer,13,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Medicinal,bark,decoction,drunk,metabolic disorders,-7.73921,111.86625
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Kunyit,Curcuma longa,Zingiberaceae,herb,Cosmetic,rhizome,ground,applied,,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Kelor,Moringa oleifera,Moringaceae,tree,Medicinal,leaf,cooked,eaten,lactation,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Kelor,Moringa oleifera,Moringaceae,tree,Ritual,leaf,fresh,,,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.80272,111.94117
+INF021,Female,32,Sumber Jaya,Javanese,Trader,17,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Medicinal,bark,decoction,drunk,metabolic disorders,-7.80272,111.94117
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Pisang,Musa paradisiaca,Musaceae,herb,Animal fodder,stem,chopped,,,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Serai,Cymbopogon citratus,Poaceae,herb,Medicinal,stem,decoction,drunk,pain and aches,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ornamental,flower,planted,,,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.80405,111.93813
+INF022,Male,38,Sumber Jaya,Madurese,Farmer,21,Gamal,Gliricidia sepium,Fabaceae,tree,Other,stem,planted,,,-7.80405,111.93813
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Kelapa,Cocos nucifera,Arecaceae,tree,Craft,leaf,woven,,,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Kemangi,Ocimum basilicum,Lamiaceae,herb,Medicinal,leaf,chewed,chewed,oral health,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.85399,112.05392
+INF023,Female,61,Tirta Makmur,Madurese,Housewife,15,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.85399,112.05392
+INF024,Male,42,Tirta Makmur,Javanese,Laborer,27,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.85988,112.05244
+INF024,Male,42,Tirta Makmur,Javanese,Laborer,27,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.85988,112.05244
+INF024,Male,42,Tirta Makmur,Javanese,Laborer,27,Kelor,Moringa oleifera,Moringaceae,tree,Food,leaf,cooked,eaten,,-7.85988,112.05244
+INF024,Male,42,Tirta Makmur,Javanese,Laborer,27,Kelor,Moringa oleifera,Moringaceae,tree,Medicinal,leaf,cooked,eaten,lactation,-7.85988,112.05244
+INF024,Male,42,Tirta Makmur,Javanese,Laborer,27,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Food,bark,ground,,,-7.85988,112.05244
+INF024,Male,42,Tirta Makmur,Javanese,Laborer,27,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.85988,112.05244
+INF024,Male,42,Tirta Makmur,Javanese,Laborer,27,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.85988,112.05244
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Kunyit,Curcuma longa,Zingiberaceae,herb,Cosmetic,rhizome,ground,applied,,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Lidah buaya,Aloe vera,Asphodelaceae,herb,Cosmetic,leaf,gel,applied,,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Animal fodder,leaf,chopped,,,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.74258,111.86527
+INF025,Female,41,Alas Lestari,Javanese,Housewife,20,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.74258,111.86527
+INF026,Female,55,Alas Lestari,Javanese,Housewife,11,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.73794,111.86682
+INF026,Female,55,Alas Lestari,Javanese,Housewife,11,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.73794,111.86682
+INF026,Female,55,Alas Lestari,Javanese,Housewife,11,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.73794,111.86682
+INF026,Female,55,Alas Lestari,Javanese,Housewife,11,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.73794,111.86682
+INF026,Female,55,Alas Lestari,Javanese,Housewife,11,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.73794,111.86682
+INF026,Female,55,Alas Lestari,Javanese,Housewife,11,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.73794,111.86682
+INF026,Female,55,Alas Lestari,Javanese,Housewife,11,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.73794,111.86682
+INF026,Female,55,Alas Lestari,Javanese,Housewife,11,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.73794,111.86682
+INF026,Female,55,Alas Lestari,Javanese,Housewife,11,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.73794,111.86682
+INF027,Male,50,Sumber Jaya,Javanese,Teacher,6,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.79943,111.93937
+INF027,Male,50,Sumber Jaya,Javanese,Teacher,6,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.79943,111.93937
+INF027,Male,50,Sumber Jaya,Javanese,Teacher,6,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.79943,111.93937
+INF027,Male,50,Sumber Jaya,Javanese,Teacher,6,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.79943,111.93937
+INF027,Male,50,Sumber Jaya,Javanese,Teacher,6,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.79943,111.93937
+INF027,Male,50,Sumber Jaya,Javanese,Teacher,6,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.79943,111.93937
+INF027,Male,50,Sumber Jaya,Javanese,Teacher,6,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.79943,111.93937
+INF027,Male,50,Sumber Jaya,Javanese,Teacher,6,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.79943,111.93937
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Kemangi,Ocimum basilicum,Lamiaceae,herb,Medicinal,leaf,chewed,chewed,oral health,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Kelor,Moringa oleifera,Moringaceae,tree,Food,leaf,cooked,eaten,,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Kelor,Moringa oleifera,Moringaceae,tree,Ritual,leaf,fresh,,,-7.79756,111.94114
+INF028,Male,71,Sumber Jaya,Javanese,Farmer,19,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.79756,111.94114
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.8591,112.05177
+INF029,Male,50,Tirta Makmur,Madurese,Housewife,27,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Medicinal,bark,decoction,drunk,metabolic disorders,-7.8591,112.05177
+INF030,Female,52,Sumber Jaya,Javanese,Farmer,37,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80447,111.93878
+INF030,Female,52,Sumber Jaya,Javanese,Farmer,37,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.80447,111.93878
+INF030,Female,52,Sumber Jaya,Javanese,Farmer,37,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.80447,111.93878
+INF030,Female,52,Sumber Jaya,Javanese,Farmer,37,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.80447,111.93878
+INF030,Female,52,Sumber Jaya,Javanese,Farmer,37,Kemangi,Ocimum basilicum,Lamiaceae,herb,Medicinal,leaf,chewed,chewed,oral health,-7.80447,111.93878
+INF030,Female,52,Sumber Jaya,Javanese,Farmer,37,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80447,111.93878
+INF030,Female,52,Sumber Jaya,Javanese,Farmer,37,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.80447,111.93878
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.8529,112.0539
+INF031,Male,42,Tirta Makmur,Javanese,Farmer,27,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Food,bark,ground,,,-7.8529,112.0539
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Kelapa,Cocos nucifera,Arecaceae,tree,Energy,husk,dried,,,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Lidah buaya,Aloe vera,Asphodelaceae,herb,Cosmetic,leaf,gel,applied,,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Serai,Cymbopogon citratus,Poaceae,herb,Medicinal,stem,decoction,drunk,pain and aches,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.73961,111.86582
+INF032,Female,51,Alas Lestari,Javanese,Trader,30,Gamal,Gliricidia sepium,Fabaceae,tree,Other,stem,planted,,,-7.73961,111.86582
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Kemangi,Ocimum basilicum,Lamiaceae,herb,Medicinal,leaf,chewed,chewed,oral health,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.85505,112.05421
+INF033,Female,65,Tirta Makmur,Madurese,Farmer,2,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.85505,112.05421
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Sirsak,Annona muricata,Annonaceae,tree,Medicinal,leaf,decoction,drunk,pain and aches,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Pisang,Musa paradisiaca,Musaceae,herb,Animal fodder,stem,chopped,,,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Animal fodder,leaf,chopped,,,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.7978,111.94189
+INF034,Male,52,Sumber Jaya,Madurese,Housewife,23,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.7978,111.94189
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Kelapa,Cocos nucifera,Arecaceae,tree,Construction,stem,sawn,,,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Pisang,Musa paradisiaca,Musaceae,herb,Animal fodder,stem,chopped,,,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.80194,111.93491
+INF035,Female,32,Sumber Jaya,Javanese,Farmer,17,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80194,111.93491
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Lidah buaya,Aloe vera,Asphodelaceae,herb,Cosmetic,leaf,gel,applied,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Animal fodder,leaf,chopped,,,-7.85403,112.05137
+INF036,Female,39,Tirta Makmur,Madurese,Farmer,2,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.85403,112.05137
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Kelor,Moringa oleifera,Moringaceae,tree,Medicinal,leaf,cooked,eaten,lactation,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Kelor,Moringa oleifera,Moringaceae,tree,Ritual,leaf,fresh,,,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.79753,111.93655
+INF037,Female,56,Sumber Jaya,Madurese,Farmer,34,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.79753,111.93655
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Kunyit,Curcuma longa,Zingiberaceae,herb,Cosmetic,rhizome,ground,applied,,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Beluntas,Pluchea indica,Asteraceae,shrub,Medicinal,leaf,decoction,drunk,digestive disorders,-7.74207,111.86758
+INF038,Female,51,Alas Lestari,Javanese,Farmer,2,Beluntas,Pluchea indica,Asteraceae,shrub,Other,stem,planted,,,-7.74207,111.86758
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Pisang,Musa paradisiaca,Musaceae,herb,Animal fodder,stem,chopped,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Lidah buaya,Aloe vera,Asphodelaceae,herb,Cosmetic,leaf,gel,applied,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ritual,flower,fresh,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Kenanga,Cananga odorata,Annonaceae,tree,Cosmetic,flower,steeped,applied,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.7374,111.86362
+INF039,Female,59,Alas Lestari,Javanese,Farmer,17,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Medicinal,bark,decoction,drunk,metabolic disorders,-7.7374,111.86362
+INF040,Male,23,Sumber Jaya,Javanese,Housewife,8,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80268,111.93582
+INF040,Male,23,Sumber Jaya,Javanese,Housewife,8,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.80268,111.93582
+INF040,Male,23,Sumber Jaya,Javanese,Housewife,8,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.80268,111.93582
+INF040,Male,23,Sumber Jaya,Javanese,Housewife,8,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.80268,111.93582
+INF040,Male,23,Sumber Jaya,Javanese,Housewife,8,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80268,111.93582
+INF040,Male,23,Sumber Jaya,Javanese,Housewife,8,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.80268,111.93582
+INF041,Female,46,Alas Lestari,Javanese,Housewife,31,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.74091,111.86263
+INF041,Female,46,Alas Lestari,Javanese,Housewife,31,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.74091,111.86263
+INF041,Female,46,Alas Lestari,Javanese,Housewife,31,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.74091,111.86263
+INF041,Female,46,Alas Lestari,Javanese,Housewife,31,Kumis kucing,Orthosiphon aristatus,Lamiaceae,herb,Medicinal,leaf,infusion,drunk,kidney and urinary,-7.74091,111.86263
+INF041,Female,46,Alas Lestari,Javanese,Housewife,31,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.74091,111.86263
+INF041,Female,46,Alas Lestari,Javanese,Housewife,31,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.74091,111.86263
+INF041,Female,46,Alas Lestari,Javanese,Housewife,31,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.74091,111.86263
+INF041,Female,46,Alas Lestari,Javanese,Housewife,31,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.74091,111.86263
+INF041,Female,46,Alas Lestari,Javanese,Housewife,31,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.74091,111.86263
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Kelapa,Cocos nucifera,Arecaceae,tree,Energy,husk,dried,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Food,shoot,cooked,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Lidah buaya,Aloe vera,Asphodelaceae,herb,Cosmetic,leaf,gel,applied,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Kenanga,Cananga odorata,Annonaceae,tree,Cosmetic,flower,steeped,applied,,-7.74123,111.86406
+INF042,Female,54,Alas Lestari,Javanese,Farmer,15,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Food,bark,ground,,,-7.74123,111.86406
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Serai,Cymbopogon citratus,Poaceae,herb,Medicinal,stem,decoction,drunk,pain and aches,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Food,bark,ground,,,-7.80268,111.94111
+INF043,Female,48,Sumber Jaya,Javanese,Traditional healer,31,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Medicinal,bark,decoction,drunk,metabolic disorders,-7.80268,111.94111
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Kunyit,Curcuma longa,Zingiberaceae,herb,Cosmetic,rhizome,ground,applied,,-7.80471,111.93694
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Kelapa,Cocos nucifera,Arecaceae,tree,Construction,stem,sawn,,,-7.80471,111.93694
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.80471,111.93694
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.80471,111.93694
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Kemangi,Ocimum basilicum,Lamiaceae,herb,Medicinal,leaf,chewed,chewed,oral health,-7.80471,111.93694
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.80471,111.93694
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.80471,111.93694
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Randu,Ceiba pentandra,Malvaceae,tree,Construction,stem,sawn,,,-7.80471,111.93694
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.80471,111.93694
+INF044,Female,34,Sumber Jaya,Javanese,Farmer,19,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.80471,111.93694
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.85648,112.04882
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.85648,112.04882
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.85648,112.04882
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.85648,112.04882
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.85648,112.04882
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.85648,112.04882
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Serai,Cymbopogon citratus,Poaceae,herb,Medicinal,stem,decoction,drunk,pain and aches,-7.85648,112.04882
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.85648,112.04882
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Kumis kucing,Orthosiphon aristatus,Lamiaceae,herb,Medicinal,leaf,infusion,drunk,kidney and urinary,-7.85648,112.04882
+INF045,Male,36,Tirta Makmur,Javanese,Laborer,21,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.85648,112.04882
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Kelapa,Cocos nucifera,Arecaceae,tree,Craft,leaf,woven,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Food,shoot,cooked,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Kelor,Moringa oleifera,Moringaceae,tree,Food,leaf,cooked,eaten,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.80449,111.94037
+INF046,Female,61,Sumber Jaya,Javanese,Traditional healer,43,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.80449,111.94037
+INF047,Female,22,Alas Lestari,Javanese,Laborer,7,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.74119,111.86163
+INF047,Female,22,Alas Lestari,Javanese,Laborer,7,Kelapa,Cocos nucifera,Arecaceae,tree,Energy,husk,dried,,,-7.74119,111.86163
+INF047,Female,22,Alas Lestari,Javanese,Laborer,7,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.74119,111.86163
+INF047,Female,22,Alas Lestari,Javanese,Laborer,7,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.74119,111.86163
+INF047,Female,22,Alas Lestari,Javanese,Laborer,7,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.74119,111.86163
+INF047,Female,22,Alas Lestari,Javanese,Laborer,7,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.74119,111.86163
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Sirsak,Annona muricata,Annonaceae,tree,Medicinal,leaf,decoction,drunk,pain and aches,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Sirsak,Annona muricata,Annonaceae,tree,Food,fruit,fresh,eaten,,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Kelapa,Cocos nucifera,Arecaceae,tree,Construction,stem,sawn,,,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Animal fodder,leaf,chopped,,,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.80132,111.93957
+INF048,Female,37,Sumber Jaya,Javanese,Farmer,22,Gamal,Gliricidia sepium,Fabaceae,tree,Other,stem,planted,,,-7.80132,111.93957
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ornamental,flower,planted,,,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ritual,flower,fresh,,,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.80002,111.94012
+INF049,Female,73,Sumber Jaya,Javanese,Housewife,16,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.80002,111.94012
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Food,shoot,cooked,,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Kenanga,Cananga odorata,Annonaceae,tree,Cosmetic,flower,steeped,applied,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Gamal,Gliricidia sepium,Fabaceae,tree,Other,stem,planted,,,-7.7389,111.86246
+INF050,Female,46,Alas Lestari,Javanese,Farmer,31,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.7389,111.86246
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Kencur,Kaempferia galanga,Zingiberaceae,herb,Food,rhizome,ground,drunk,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Kelapa,Cocos nucifera,Arecaceae,tree,Craft,leaf,woven,,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Kelapa,Cocos nucifera,Arecaceae,tree,Energy,husk,dried,,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Beluntas,Pluchea indica,Asteraceae,shrub,Medicinal,leaf,decoction,drunk,digestive disorders,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Beluntas,Pluchea indica,Asteraceae,shrub,Other,stem,planted,,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Kelor,Moringa oleifera,Moringaceae,tree,Medicinal,leaf,cooked,eaten,lactation,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.7999,111.93993
+INF051,Female,82,Sumber Jaya,Madurese,Housewife,33,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.7999,111.93993
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Kunyit,Curcuma longa,Zingiberaceae,herb,Cosmetic,rhizome,ground,applied,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Beluntas,Pluchea indica,Asteraceae,shrub,Other,stem,planted,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Kelor,Moringa oleifera,Moringaceae,tree,Ritual,leaf,fresh,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.80216,111.93757
+INF052,Male,44,Sumber Jaya,Javanese,Teacher,15,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.80216,111.93757
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.79994,111.94043
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.79994,111.94043
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.79994,111.94043
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Kencur,Kaempferia galanga,Zingiberaceae,herb,Medicinal,rhizome,ground,drunk,respiratory disorders,-7.79994,111.94043
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Sirsak,Annona muricata,Annonaceae,tree,Medicinal,leaf,decoction,drunk,pain and aches,-7.79994,111.94043
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Sirsak,Annona muricata,Annonaceae,tree,Food,fruit,fresh,eaten,,-7.79994,111.94043
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Kelapa,Cocos nucifera,Arecaceae,tree,Craft,leaf,woven,,,-7.79994,111.94043
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.79994,111.94043
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.79994,111.94043
+INF053,Female,37,Sumber Jaya,Javanese,Housewife,12,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.79994,111.94043
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Jahe,Zingiber officinale,Zingiberaceae,herb,Food,rhizome,infusion,drunk,,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Kemangi,Ocimum basilicum,Lamiaceae,herb,Medicinal,leaf,chewed,chewed,oral health,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Serai,Cymbopogon citratus,Poaceae,herb,Medicinal,stem,decoction,drunk,pain and aches,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.74393,111.8643
+INF054,Female,62,Alas Lestari,Javanese,Traditional healer,19,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.74393,111.8643
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,decoction,gargled,oral health,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Kelapa,Cocos nucifera,Arecaceae,tree,Food,fruit,squeezed,,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Pisang,Musa paradisiaca,Musaceae,herb,Animal fodder,stem,chopped,,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Gamal,Gliricidia sepium,Fabaceae,tree,Animal fodder,leaf,chopped,,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Gamal,Gliricidia sepium,Fabaceae,tree,Other,stem,planted,,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Food,bark,ground,,,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Medicinal,bark,decoction,drunk,metabolic disorders,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.80218,111.93813
+INF055,Male,55,Sumber Jaya,Javanese,Farmer,34,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.80218,111.93813
+INF056,Female,70,Tirta Makmur,Javanese,Trader,18,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.85523,112.05562
+INF056,Female,70,Tirta Makmur,Javanese,Trader,18,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.85523,112.05562
+INF056,Female,70,Tirta Makmur,Javanese,Trader,18,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,fever and infection,-7.85523,112.05562
+INF056,Female,70,Tirta Makmur,Javanese,Trader,18,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.85523,112.05562
+INF056,Female,70,Tirta Makmur,Javanese,Trader,18,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.85523,112.05562
+INF056,Female,70,Tirta Makmur,Javanese,Trader,18,Serai,Cymbopogon citratus,Poaceae,herb,Medicinal,stem,decoction,drunk,pain and aches,-7.85523,112.05562
+INF056,Female,70,Tirta Makmur,Javanese,Trader,18,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.85523,112.05562
+INF056,Female,70,Tirta Makmur,Javanese,Trader,18,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ritual,flower,fresh,,,-7.85523,112.05562
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Sirih,Piper betle,Piperaceae,liana,Ritual,leaf,fresh,,,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Sambiloto,Andrographis paniculata,Acanthaceae,herb,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Kemangi,Ocimum basilicum,Lamiaceae,herb,Medicinal,leaf,chewed,chewed,oral health,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ornamental,flower,planted,,,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.85282,112.05054
+INF057,Female,34,Tirta Makmur,Madurese,Farmer,13,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.85282,112.05054
+INF058,Female,52,Sumber Jaya,Javanese,Laborer,24,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80505,111.93876
+INF058,Female,52,Sumber Jaya,Javanese,Laborer,24,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.80505,111.93876
+INF058,Female,52,Sumber Jaya,Javanese,Laborer,24,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.80505,111.93876
+INF058,Female,52,Sumber Jaya,Javanese,Laborer,24,Kelor,Moringa oleifera,Moringaceae,tree,Medicinal,leaf,cooked,eaten,lactation,-7.80505,111.93876
+INF058,Female,52,Sumber Jaya,Javanese,Laborer,24,Kelor,Moringa oleifera,Moringaceae,tree,Ritual,leaf,fresh,,,-7.80505,111.93876
+INF058,Female,52,Sumber Jaya,Javanese,Laborer,24,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.80505,111.93876
+INF058,Female,52,Sumber Jaya,Javanese,Laborer,24,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80505,111.93876
+INF058,Female,52,Sumber Jaya,Javanese,Laborer,24,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.80505,111.93876
+INF058,Female,52,Sumber Jaya,Javanese,Laborer,24,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.80505,111.93876
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.85517,112.05102
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.85517,112.05102
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Kumis kucing,Orthosiphon aristatus,Lamiaceae,herb,Medicinal,leaf,infusion,drunk,kidney and urinary,-7.85517,112.05102
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Kelor,Moringa oleifera,Moringaceae,tree,Ritual,leaf,fresh,,,-7.85517,112.05102
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ornamental,flower,planted,,,-7.85517,112.05102
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.85517,112.05102
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.85517,112.05102
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.85517,112.05102
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Animal fodder,leaf,chopped,,,-7.85517,112.05102
+INF059,Male,40,Tirta Makmur,Madurese,Farmer,19,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.85517,112.05102
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Pisang,Musa paradisiaca,Musaceae,herb,Animal fodder,stem,chopped,,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Pisang,Musa paradisiaca,Musaceae,herb,Medicinal,fruit,fresh,eaten,digestive disorders,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Kenanga,Cananga odorata,Annonaceae,tree,Ritual,flower,fresh,,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Kenanga,Cananga odorata,Annonaceae,tree,Cosmetic,flower,steeped,applied,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Animal fodder,leaf,chopped,,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.74226,111.86463
+INF060,Female,46,Alas Lestari,Javanese,Trader,31,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,eaten,lactation,-7.74226,111.86463
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Kumis kucing,Orthosiphon aristatus,Lamiaceae,herb,Medicinal,leaf,infusion,drunk,kidney and urinary,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Kayu manis,Cinnamomum burmannii,Lauraceae,tree,Food,bark,ground,,,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.85413,112.05196
+INF061,Female,48,Tirta Makmur,Javanese,Trader,9,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.85413,112.05196
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,decoction,drunk,metabolic disorders,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Beluntas,Pluchea indica,Asteraceae,shrub,Medicinal,leaf,decoction,drunk,digestive disorders,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Beluntas,Pluchea indica,Asteraceae,shrub,Other,stem,planted,,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Mengkudu,Morinda citrifolia,Rubiaceae,tree,Medicinal,fruit,squeezed,drunk,cardiovascular,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Alang-alang,Imperata cylindrica,Poaceae,herb,Construction,leaf,dried,,,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Alang-alang,Imperata cylindrica,Poaceae,herb,Medicinal,root,decoction,drunk,fever and infection,-7.80299,111.93955
+INF062,Male,28,Sumber Jaya,Javanese,Traditional healer,13,Pepaya,Carica papaya,Caricaceae,tree,Medicinal,leaf,boiled,drunk,digestive disorders,-7.80299,111.93955
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Kelapa,Cocos nucifera,Arecaceae,tree,Construction,stem,sawn,,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Kelapa,Cocos nucifera,Arecaceae,tree,Ritual,leaf,woven,,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Kemangi,Ocimum basilicum,Lamiaceae,herb,Food,leaf,fresh,eaten,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Serai,Cymbopogon citratus,Poaceae,herb,Food,stem,cooked,,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.85307,112.05034
+INF063,Male,22,Tirta Makmur,Madurese,Laborer,7,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Animal fodder,leaf,chopped,,,-7.85307,112.05034
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Kelapa,Cocos nucifera,Arecaceae,tree,Craft,leaf,woven,,,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Pisang,Musa paradisiaca,Musaceae,herb,Ritual,leaf,fresh,,,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Serai,Cymbopogon citratus,Poaceae,herb,Other,leaf,crushed,,,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Randu,Ceiba pentandra,Malvaceae,tree,Craft,fruit,dried,,,-7.80059,111.93989
+INF064,Female,56,Sumber Jaya,Javanese,Laborer,20,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.80059,111.93989
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Sirih,Piper betle,Piperaceae,liana,Medicinal,leaf,boiled,applied,women's health,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Pisang,Musa paradisiaca,Musaceae,herb,Animal fodder,stem,chopped,,,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Lidah buaya,Aloe vera,Asphodelaceae,herb,Medicinal,leaf,gel,applied,wounds and skin,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Food,leaf,cooked,,,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Medicinal,fruit,squeezed,drunk,respiratory disorders,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Jeruk nipis,Citrus aurantiifolia,Rutaceae,shrub,Food,fruit,squeezed,,,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Kumis kucing,Orthosiphon aristatus,Lamiaceae,herb,Medicinal,leaf,infusion,drunk,kidney and urinary,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Binahong,Anredera cordifolia,Basellaceae,liana,Medicinal,leaf,crushed,applied,wounds and skin,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ornamental,flower,planted,,,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ritual,flower,fresh,,,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.8578,112.05191
+INF065,Male,34,Tirta Makmur,Javanese,Farmer,2,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,leaf,cooked,eaten,,-7.8578,112.05191
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Kunyit,Curcuma longa,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,digestive disorders,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Kunyit,Curcuma longa,Zingiberaceae,herb,Food,rhizome,cooked,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Jahe,Zingiber officinale,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,respiratory disorders,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Temulawak,Curcuma zanthorrhiza,Zingiberaceae,herb,Medicinal,rhizome,decoction,drunk,liver and appetite,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Construction,stem,cut,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Bambu apus,Gigantochloa apus,Poaceae,clumping grass,Craft,stem,woven,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Jati,Tectona grandis,Lamiaceae,tree,Construction,stem,sawn,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Jati,Tectona grandis,Lamiaceae,tree,Energy,stem,dried,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Pisang,Musa paradisiaca,Musaceae,herb,Food,fruit,fresh,eaten,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Pisang,Musa paradisiaca,Musaceae,herb,Animal fodder,stem,chopped,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Pandan wangi,Pandanus amaryllifolius,Pandanaceae,herb,Ritual,leaf,fresh,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ornamental,flower,planted,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Kembang sepatu,Hibiscus rosa-sinensis,Malvaceae,shrub,Ritual,flower,fresh,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Melati,Jasminum sambac,Oleaceae,shrub,Ritual,flower,fresh,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Melati,Jasminum sambac,Oleaceae,shrub,Ornamental,flower,planted,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Singkong,Manihot esculenta,Euphorbiaceae,shrub,Food,tuber,boiled,eaten,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Salam,Syzygium polyanthum,Myrtaceae,tree,Food,leaf,cooked,,,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Salam,Syzygium polyanthum,Myrtaceae,tree,Medicinal,leaf,decoction,drunk,cardiovascular,-7.80371,111.93552
+INF066,Female,63,Sumber Jaya,Javanese,Farmer,26,Pepaya,Carica papaya,Caricaceae,tree,Food,fruit,fresh,eaten,,-7.80371,111.93552
