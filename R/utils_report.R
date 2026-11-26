@@ -88,13 +88,41 @@ order_report_items <- function(items) {
   items[order(sec)]
 }
 
-#' Pipe table with scientific names in italics
+#' Format p-values: very small values are shown as "<0.001", never as 0
 #' @noRd
-report_table_md <- function(df) {
+fmt_p <- function(x, digits = 3) {
+  x <- suppressWarnings(as.numeric(x))
+  lim <- 10^(-digits)
+  out <- ifelse(is.na(x), NA_character_,
+                ifelse(x < lim, paste0("<", formatC(lim, format = "f", digits = digits)),
+                       formatC(x, format = "f", digits = digits)))
+  out
+}
+
+#' Columns holding p-values (by name)
+#' @noRd
+p_value_columns <- function(df) intersect(c("p", "p_adj", "p_adjusted", "p_value", "p.value"), names(df))
+
+#' Pipe table with scientific names in italics.
+#' Columns that are entirely missing are dropped, p-values are shown as "<0.001"
+#' when tiny, and long tables are cut to `max_rows` rows (full tables remain in
+#' the Excel workbook). Change the cut with options(ethnoshiny.report_max_rows = n).
+#' @noRd
+report_table_md <- function(df, max_rows = getOption("ethnoshiny.report_max_rows", 200L)) {
+  n_all <- nrow(df)
+  keep <- vapply(df, function(v) any(!is.na(v)), logical(1))
+  if (any(keep)) df <- df[, keep, drop = FALSE]
+  truncated <- is.finite(max_rows) && n_all > max_rows
+  if (truncated) df <- utils::head(df, max_rows)
   for (cn in intersect(SPECIES_COLS, names(df))) df[[cn]] <- italicize_name(df[[cn]], "markdown")
+  for (cn in p_value_columns(df)) df[[cn]] <- fmt_p(df[[cn]])
   num <- vapply(df, function(v) is.numeric(v) && !is.integer(v), logical(1))
   for (cn in names(df)[num]) df[[cn]] <- round(df[[cn]], 3)
-  paste(knitr::kable(df, format = "pipe"), collapse = "\n")
+  tab <- paste(knitr::kable(df, format = "pipe"), collapse = "\n")
+  if (truncated)
+    tab <- paste0(tab, "\n\n*Showing the first ", max_rows, " of ", n_all,
+                  " rows; the full table is in the Excel workbook.*")
+  tab
 }
 
 #' Markdown body of the report for the chosen items

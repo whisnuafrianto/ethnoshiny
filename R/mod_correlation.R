@@ -179,8 +179,9 @@ mod_correlation_server <- function(id, data, report = NULL) {
 
       output[[paste0(prefix, "_table")]] <- DT::renderDT({
         tab <- pairs_tbl()
+        for (cn in p_value_columns(tab)) tab[[cn]] <- fmt_p(tab[[cn]])
         dt_table(tab, rownames = FALSE, options = list(pageLength = 10, scrollX = TRUE)) |>
-          DT::formatRound(c("r", "p", "p_adjusted"), 3)
+          DT::formatRound("r", 3)
       })
     }
 
