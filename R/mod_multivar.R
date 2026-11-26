@@ -3,6 +3,24 @@
 # Uses the vegan package on the informant x species presence/absence matrix.
 # =============================================================================
 
+# Label for the NMDS stress. A stress close to zero is NOT a good sign: it usually
+# means the groups are perfectly separated (ranks of all between-group distances
+# exceed all within-group distances) or that there is too little data, and the
+# ordination collapses informants onto a few points.
+nmds_stress_label <- function(s, n_sites = NA_integer_, n_positions = NA_integer_) {
+  base <- paste0("Stress = ", signif(s, 3))
+  if (is.na(s)) return(paste0(base, "  (not available)"))
+  if (s < 0.01) {
+    msg <- paste0("  (near zero: groups are probably perfectly separated or the data are too sparse; ",
+                  "the ordination is not informative, do not interpret it as an excellent fit)")
+    if (!is.na(n_sites) && !is.na(n_positions) && n_positions < n_sites)
+      msg <- paste0(msg, " ", n_sites, " informants occupy only ", n_positions, " distinct positions.")
+    return(paste0(base, msg))
+  }
+  paste0(base, if (s < 0.1) "  (excellent)" else if (s < 0.2) "  (acceptable)"
+         else "  (poor: interpret with caution)")
+}
+
 mod_multivar_ui <- function(id) {
   ns <- shiny::NS(id)
   bslib::layout_sidebar(
@@ -81,9 +99,9 @@ mod_multivar_server <- function(id, data, report = NULL) {
       suppressWarnings(plotly::ggplotly(p_nmds(), tooltip = c("text", "colour"))))
 
     stress_text <- shiny::reactive({
-      s <- nmds()$stress
-      paste0("Stress = ", round(s, 3),
-             if (s < 0.1) "  (excellent)" else if (s < 0.2) "  (acceptable)" else "  (poor: interpret with caution)")
+      sc <- vegan::scores(nmds(), display = "sites")
+      nmds_stress_label(nmds()$stress, n_sites = nrow(sc),
+                        n_positions = nrow(unique(round(sc, 3))))
     })
     output$stress <- shiny::renderText(stress_text())
 
